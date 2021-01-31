@@ -4,3 +4,9 @@
 /Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.csproj.CoreCompileInputs.cache
 /Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.exe
 /Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.pdb
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/bin/Debug/Hel.exe
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/bin/Debug/Hel.pdb
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.csprojAssemblyReference.cache
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.csproj.CoreCompileInputs.cache
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.exe
+/Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.pdb

@@ -4,7 +4,7 @@ namespace Hel.ClanguageBasics
 {
     class NullOperators
     {
-        private int x = 8;
+        //private int x = 8;
 
         private void Method()
         {

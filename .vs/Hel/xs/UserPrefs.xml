@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{97D82B87-E902-41A5-A535-FB8DAE1EB760}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hel/C# language Basics/NullOperators.cs">
+    <Files>
+      <File FileName="Hel/C# language Basics/ForLoopIteration.cs" Line="17" Column="29" />
+      <File FileName="Hel/C# language Basics/NullOperators.cs" Line="7" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hel" expanded="True">
+            <Node name="Hel" expanded="True">
+              <Node name="C# language Basics" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
