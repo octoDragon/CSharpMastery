@@ -1,0 +1,6 @@
+/Users/Gearhart/Projects/Hel/Hel/bin/Debug/Hel.exe
+/Users/Gearhart/Projects/Hel/Hel/bin/Debug/Hel.pdb
+/Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.csprojAssemblyReference.cache
+/Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.csproj.CoreCompileInputs.cache
+/Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.exe
+/Users/Gearhart/Projects/Hel/Hel/obj/Debug/Hel.pdb
