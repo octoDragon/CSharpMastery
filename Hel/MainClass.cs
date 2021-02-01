@@ -5,7 +5,7 @@ namespace Hel.ClanguageBasics
     {       
         public static void Main(string[] args)
         {
-            ForLoopIteration.Program();
+            JumpStatements.Program();
         }
     }
 }

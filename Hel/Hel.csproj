@@ -37,6 +37,7 @@
     <Compile Include="C# language Basics\Swtiches.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="C# language Basics\ForLoopIteration.cs" />
+    <Compile Include="C# language Basics\JumpStatements.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
