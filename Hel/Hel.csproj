@@ -38,9 +38,12 @@
     <Compile Include="MainClass.cs" />
     <Compile Include="C# language Basics\ForLoopIteration.cs" />
     <Compile Include="C# language Basics\JumpStatements.cs" />
+    <Compile Include="Creating Types in C#\Expression-Bodied-Methods.cs" />
+    <Compile Include="Creating Types in C#\Overloading-Constructors.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
+    <Folder Include="Creating Types in C#\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
