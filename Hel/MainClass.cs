@@ -6,6 +6,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        ObjectInitializers_Properties.Program();
+        Using_Properties.Program();
     }
 }

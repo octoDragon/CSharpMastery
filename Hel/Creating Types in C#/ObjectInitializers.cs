@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Hel.CreatingTypesinC
 {
-    public class ObjectInitializers_Properties
+    public class ObjectInitializers
     {
-        public ObjectInitializers_Properties()
+        public ObjectInitializers()
         {
         }
 
@@ -29,7 +29,7 @@ namespace Hel.CreatingTypesinC
         {
             public int LegNum;
             public double Age;
-            public string Brand = "Walmart"; //default assignment
+            public string Brand; //default assignment
 
             public Table(string b = "N/A", int legNum = 0, double age = 0) //optional parameters
             {

@@ -41,7 +41,8 @@
     <Compile Include="Creating Types in C#\Expression-Bodied-Methods.cs" />
     <Compile Include="Creating Types in C#\Overloading-Constructors.cs" />
     <Compile Include="Creating Types in C#\Using-Deconstructors.cs" />
-    <Compile Include="Creating Types in C#\ObjectInitializers_Properties.cs" />
+    <Compile Include="Creating Types in C#\ObjectInitializers.cs" />
+    <Compile Include="Creating Types in C#\Using_Properties.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
