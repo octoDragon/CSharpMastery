@@ -6,6 +6,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Using_Properties.Program();
+        Using_Deconstructors.Program();
     }
 }

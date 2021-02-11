@@ -44,7 +44,6 @@ namespace Hel.CreatingTypesinC
             Using_Deconstructors myColoredObject = new Using_Deconstructors(3, 1, "blue");
             (float height3, float width3, string color1) = myColoredObject;
             Console.WriteLine(height3 + " " + width3 + " " + color1);
-
         }
 
     }

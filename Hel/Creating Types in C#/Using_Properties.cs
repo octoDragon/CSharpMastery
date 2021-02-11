@@ -5,30 +5,36 @@ namespace Hel.CreatingTypesinC
     {
         public static void Program()
         {
+            //store declaration
             Store store1 = new Store { streetname = "Westbrook" };
+
+            //store dialogue beginning
             Console.WriteLine("You are at a store in " + store1.Location);
             Console.Write("Would you like to buy something? (Y/N): ");
             store1.response = Console.ReadLine();
+
+            //shopping
             if (store1.response == "Y") { store1.Shopping(store1); }
+            //leaving
             else { Console.WriteLine("Bonne Journée!"); }
         }
     }
 
     public class Store
     {
-        //Fields
+        //Pulbic Fields
         public string response;
         public string streetname;
         public int numberOfApples = 0;
         public int numberOfOranges = 0;
         public int numberOfBannanas = 0;
 
-        private string city = "London"; //private "backing" field
+        //Private Backing Fields
+        private string city = "London";
         private int zipCode = 12345;
         private double applePrice = 2.99;
         private double orangePrice = 0.99;
         private double bannanaPrice = 3.99;
-        private double totalCost = 0;
 
         //Properties
         public string Location
@@ -64,11 +70,6 @@ namespace Hel.CreatingTypesinC
             get { return Bannanas + Oranges + Apples; }
         }
 
-        //Constructor
-        public Store()
-        {
-        }
-
         //Methods
         public void Shopping(Store store)
         {
@@ -77,6 +78,8 @@ namespace Hel.CreatingTypesinC
                 Console.WriteLine("What would you like to buy, \n" +
                     "Bannanas (1), Apples (2), or Oranges (3)");
                 store.response = Console.ReadLine();
+
+                //different food types, adds to the total amounts, calculates after shopping is complete
                 switch (store.response)
                 {
                     case "Bannanas":
@@ -95,12 +98,15 @@ namespace Hel.CreatingTypesinC
                         Console.WriteLine("We do not sell that! Sorry!");
                         break;
                 }
-                Console.WriteLine("Would you like anything else? (Y/N): ");
+                Console.WriteLine("Would you like anything else? (Yes/No): ");
                 store.response = Console.ReadLine();
-                Console.WriteLine("reponse: " + store.response);
-            } while (!store.response.Equals("N") || !store.response.Equals("n")); //TODO Fix this logic, not reading it???
+            } while (store.response == "Yes" || store.response == "yes"); //TODO Fix this logic, not reading it???
 
-            Console.WriteLine("Your total cost is: " + store.TotalCost);
+            //Output / Money Owed / Total Cost
+            Console.WriteLine("Your total cost is: $" + store.TotalCost);
+            Console.WriteLine("(Press the enter key to exit)");
+            Console.ReadLine(); //enter closes the program 
+            
         }
 
         private static int Amount(Store store) //How many?
@@ -113,3 +119,32 @@ namespace Hel.CreatingTypesinC
 
     }
 }
+
+/*Example Output: 
+You are at a store in Westbrook, London
+Would you like to buy something? (Y/N): Y
+What would you like to buy,
+Bannanas (1), Apples (2), or Oranges (3)
+1
+How many would you like?:
+1
+Would you like anything else? (Yes/No):
+Yes
+What would you like to buy,
+Bannanas (1), Apples (2), or Oranges (3)
+1
+How many would you like?:
+1
+Would you like anything else? (Yes/No):
+Yes
+What would you like to buy,
+Bannanas (1), Apples (2), or Oranges (3)
+2
+How many would you like?:
+1
+Would you like anything else? (Yes/No):
+No
+Your total cost is: $10.97
+(Press the enter key to exit)
+
+ */

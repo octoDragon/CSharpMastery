@@ -11,8 +11,8 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Debug|anycpu.Build.0 = Debug|anycpu
+		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Release|anycpu.ActiveCfg = Release|anycpu
 		{97D82B87-E902-41A5-A535-FB8DAE1EB760}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
@@ -26,12 +26,11 @@ Global
 		Policies = $0
 		$0.DotNetNamingPolicy = $1
 		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
-		$0.TextStylePolicy = $2
+		$0.TextStylePolicy = $4
 		$2.inheritsSet = null
 		$2.scope = text/x-csharp
 		$0.CSharpFormattingPolicy = $3
 		$3.scope = text/x-csharp
-		$0.TextStylePolicy = $4
 		$4.FileWidth = 80
 		$4.TabsToSpaces = True
 		$4.scope = text/plain
