@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{97D82B87-E902-41A5-A535-FB8DAE1EB760}|Default">
   <MonoDevelop.Ide.ItemProperties.Hel PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hel/MainClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hel/Creating Types in C#/Using_Indexers.cs">
     <Files>
-      <File FileName="Hel/MainClass.cs" Line="11" Column="2" />
-      <File FileName="Hel/Creating Types in C#/ObjectInitializers.cs" />
+      <File FileName="Hel/MainClass.cs" Line="8" Column="6" />
+      <File FileName="Hel/Creating Types in C#/ObjectInitializers.cs" Line="1" Column="1" />
+      <File FileName="Hel/Creating Types in C#/Using_Properties.cs" Line="71" Column="10" />
+      <File FileName="Hel/Creating Types in C#/Using_Indexers.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,8 +13,9 @@
           <Node name="Hel" expanded="True">
             <Node name="Hel" expanded="True">
               <Node name="C# language Basics" expanded="True" />
-              <Node name="Creating Types in C#" expanded="True" />
-              <Node name="MainClass.cs" selected="True" />
+              <Node name="Creating Types in C#" expanded="True">
+                <Node name="Using_Indexers.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

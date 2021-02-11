@@ -43,6 +43,7 @@
     <Compile Include="Creating Types in C#\Using-Deconstructors.cs" />
     <Compile Include="Creating Types in C#\ObjectInitializers.cs" />
     <Compile Include="Creating Types in C#\Using_Properties.cs" />
+    <Compile Include="Creating Types in C#\Using_Indexers.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />

@@ -10,9 +10,9 @@
 /Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.csproj.CoreCompileInputs.cache
 /Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.exe
 /Users/Gearhart/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.pdb
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\obj\Debug\Hel.exe
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\obj\Debug\Hel.pdb
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\bin\Debug\Hel.exe
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\bin\Debug\Hel.pdb
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\obj\Debug\Hel.csprojAssemblyReference.cache
-C:\Users\krist\Documents\GitHub\CSharpMastery\Hel\obj\Debug\Hel.csproj.CoreCompileInputs.cache
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.exe
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.pdb
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/bin/Debug/Hel.exe
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/bin/Debug/Hel.pdb
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.csprojAssemblyReference.cache
+C:/Users/krist/Documents/GitHub/CSharpMastery/Hel/obj/Debug/Hel.csproj.CoreCompileInputs.cache
