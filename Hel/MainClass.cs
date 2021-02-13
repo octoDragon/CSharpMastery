@@ -6,6 +6,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Using_Indexers.Program();
+        Using_Inheritance.Program();
     }
 }
