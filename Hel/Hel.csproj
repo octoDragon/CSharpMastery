@@ -44,11 +44,13 @@
     <Compile Include="Creating Types in C#\ObjectInitializers.cs" />
     <Compile Include="Creating Types in C#\Using_Properties.cs" />
     <Compile Include="Creating Types in C#\Using_Indexers.cs" />
-    <Compile Include="Creating Types in C#\Using_Inheritance.cs" />
+    <Compile Include="Creating Types in C#\Inheritance\Inheritance_Specifics.cs" />
+    <Compile Include="Creating Types in C#\Inheritance\Using_Inheritance.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
     <Folder Include="Creating Types in C#\" />
+    <Folder Include="Creating Types in C#\Inheritance\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

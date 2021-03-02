@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{97D82B87-E902-41A5-A535-FB8DAE1EB760}|Default">
   <MonoDevelop.Ide.ItemProperties.Hel PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hel/MainClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hel/Creating Types in C#/Inheritance/Inheritance_Specifics.cs">
     <Files>
-      <File FileName="Hel/MainClass.cs" Line="10" Column="6" />
+      <File FileName="Hel/MainClass.cs" Line="9" Column="30" />
+      <File FileName="Hel/Creating Types in C#/Inheritance/As_and_Is.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,8 +11,11 @@
           <Node name="Hel" expanded="True">
             <Node name="Hel" expanded="True">
               <Node name="C# language Basics" expanded="True" />
-              <Node name="Creating Types in C#" expanded="True" />
-              <Node name="MainClass.cs" selected="True" />
+              <Node name="Creating Types in C#" expanded="True">
+                <Node name="Inheritance" expanded="True">
+                  <Node name="Inheritance_Specifics.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

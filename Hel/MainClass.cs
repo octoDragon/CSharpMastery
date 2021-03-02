@@ -6,6 +6,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Using_Inheritance.Program();
+        Inheritance_Specifics.Program();
     }
 }
