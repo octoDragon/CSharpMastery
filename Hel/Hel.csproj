@@ -46,11 +46,15 @@
     <Compile Include="Creating Types in C#\Using_Indexers.cs" />
     <Compile Include="Creating Types in C#\Inheritance\Inheritance_Specifics.cs" />
     <Compile Include="Creating Types in C#\Inheritance\Using_Inheritance.cs" />
+    <Compile Include="Creating Types in C#\Inheritance\PracticingObjects.cs" />
+    <Compile Include="Creating Types in C#\Inheritance\PracticingToString.cs" />
+    <Compile Include="Creating Types in C#\Structs\PracticingStructs.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
     <Folder Include="Creating Types in C#\" />
     <Folder Include="Creating Types in C#\Inheritance\" />
+    <Folder Include="Creating Types in C#\Structs\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
