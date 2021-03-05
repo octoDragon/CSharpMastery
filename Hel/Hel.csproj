@@ -49,6 +49,7 @@
     <Compile Include="Creating Types in C#\Inheritance\PracticingObjects.cs" />
     <Compile Include="Creating Types in C#\Inheritance\PracticingToString.cs" />
     <Compile Include="Creating Types in C#\Structs\PracticingStructs.cs" />
+    <Compile Include="Creating Types in C#\AccessModifierPractice.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
