@@ -50,12 +50,16 @@
     <Compile Include="Creating Types in C#\Inheritance\PracticingToString.cs" />
     <Compile Include="Creating Types in C#\Structs\PracticingStructs.cs" />
     <Compile Include="Creating Types in C#\AccessModifierPractice.cs" />
+    <Compile Include="Creating Types in C#\Interface\InterfacePractice.cs" />
+    <Compile Include="Creating Types in C#\Enums\EnumConversions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="C# language Basics\" />
     <Folder Include="Creating Types in C#\" />
     <Folder Include="Creating Types in C#\Inheritance\" />
     <Folder Include="Creating Types in C#\Structs\" />
+    <Folder Include="Creating Types in C#\Interface\" />
+    <Folder Include="Creating Types in C#\Enums\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

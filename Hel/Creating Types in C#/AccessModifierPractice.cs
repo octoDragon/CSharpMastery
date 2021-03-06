@@ -8,17 +8,18 @@ namespace Hel.CreatingTypesinC
         //private (default for members of class/struct)
         class Subclass1 { }
 
-        //internal (must access from current assembly
+        //internal (must access from current assembly or friend assembly
         //with AccessModifierPractice.Subclass2)
         internal class Subclass2 { }
 
-        //protected
+        //protected (containging class or subclass)
         protected class Subclass3 { }
 
 
-        //protected internal
+        //protected internal > union of protected and internal
 
-        //private protected
+        //private protected > intersection of protected and internal
+        //less accesible than private or protected alone
 
         public static void Program()
         {
