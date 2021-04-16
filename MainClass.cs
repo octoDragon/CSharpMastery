@@ -7,6 +7,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        EventProgram.Program();
+        Lamda_Expressions.Program();
     }
 }

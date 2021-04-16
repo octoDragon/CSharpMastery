@@ -1,6 +1,7 @@
 using System;
 namespace Hel.AdvancedCSharp{
-delegate int Transfomer (int x); 
+
+    delegate int Transfomer (int x); 
     public class Delegate_Practice
     {
         public static void Program()
