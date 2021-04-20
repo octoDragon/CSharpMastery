@@ -7,6 +7,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Lamda_Expressions.Program();
+        Try_and_Exceptions.Program();
     }
 }
