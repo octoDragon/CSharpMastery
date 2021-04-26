@@ -7,6 +7,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Try_and_Exceptions.Program();
+        Delegate_Multicast.Program();
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/contentconsumer/Documents/GitHub/CSharpMastery/CSharpMastery.csproj": {}
+    "/Users/gearhart/Documents/GitHub/CSharpMastery/CSharpMastery.csproj": {}
   },
   "projects": {
-    "/Users/contentconsumer/Documents/GitHub/CSharpMastery/CSharpMastery.csproj": {
+    "/Users/gearhart/Documents/GitHub/CSharpMastery/CSharpMastery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/contentconsumer/Documents/GitHub/CSharpMastery/CSharpMastery.csproj",
+        "projectUniqueName": "/Users/gearhart/Documents/GitHub/CSharpMastery/CSharpMastery.csproj",
         "projectName": "CSharpMastery",
-        "projectPath": "/Users/contentconsumer/Documents/GitHub/CSharpMastery/CSharpMastery.csproj",
-        "packagesPath": "/Users/contentconsumer/.nuget/packages/",
-        "outputPath": "/Users/contentconsumer/Documents/GitHub/CSharpMastery/obj/",
+        "projectPath": "/Users/gearhart/Documents/GitHub/CSharpMastery/CSharpMastery.csproj",
+        "packagesPath": "/Users/gearhart/.nuget/packages/",
+        "outputPath": "/Users/gearhart/Documents/GitHub/CSharpMastery/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/contentconsumer/.nuget/NuGet/NuGet.Config"
+          "/Users/gearhart/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
