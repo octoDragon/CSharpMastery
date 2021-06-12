@@ -7,6 +7,6 @@ public class MainClass
 {       
     public static void Main(string[] args)
     {
-        Delegate_Multicast.Program();
+        Observer_Program.Program();
     }
 }

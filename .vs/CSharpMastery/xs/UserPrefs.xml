@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{8129FAE0-7547-45D2-935F-B963ABB77103}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Hel/AdvancedC#/Enumeration_and_Iterators.cs">
     <Files>
-      <File FileName="MainClass.cs" Line="13" Column="1" />
-      <File FileName="mono_crash.11a67480af.0.json" Line="1" Column="1" />
-      <File FileName="Hel/AdvancedC#/Enumeration_and_Iterators.cs" Line="5" Column="6" />
+      <File FileName="MainClass.cs" Line="11" Column="6" />
+      <File FileName="Hel/AdvancedC#/Enumeration_and_Iterators.cs" Line="17" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpMastery" expanded="True">
             <Node name="CSharpMastery" expanded="True">
-              <Node name="Hel" expanded="True" />
+              <Node name="Hel" expanded="True">
+                <Node name="AdvancedC#" expanded="True">
+                  <Node name="Enumeration_and_Iterators.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
